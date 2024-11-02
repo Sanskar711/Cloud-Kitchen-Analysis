@@ -1,0 +1,51 @@
+GaugeID,Station,Latitude,Longitude,State,Basin,River Name/ Tributory/ SubTributory
+IWM-gauge-430,Arangali,10.2814,76.3153,Kerala,West flowing rivers from Tadri to Kanyakumari,Periyar/Chalakudy
+IWM-gauge-431,Pulamanthole,10.8992,76.1972,Kerala,West flowing rivers from Tadri to Kanyakumari,Bharathapuzha/Pulanthodu
+IWM-gauge-438,Malakkara,9.3325,76.6631,Kerala,West flowing rivers from Tadri to Kanyakumari,Pampa
+IWM-gauge-440,Pattazhy,9.0728,76.7611,Kerala,West flowing rivers from Tadri to Kanyakumari,Kallada
+IWM-gauge-441,Perumannu,11.9814,75.5875,Kerala,West flowing rivers from Tadri to Kanyakumari,Valapatnam
+IWM-gauge-455,Handia,22.4917,76.9936,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-463,Sandia,22.9158,78.3475,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-472,Hoshangabad,22.7561,77.7328,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-473,Mohgaon,22.7658,80.6233,Madhya Pradesh,Narmada,Narmada/Burhner
+IWM-gauge-486,Manot,22.7358,80.5131,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-490,Rajegaon,21.6256,80.2539,Madhya Pradesh,Godavari,Godavari/Pranhita/ Bagh
+IWM-gauge-491,Gadarwara,22.9228,78.7908,Madhya Pradesh,Narmada,Narmada/Sakkar
+IWM-gauge-494,Chhidgaon,22.4058,77.3081,Madhya Pradesh,Narmada,Narmada/Ganjal
+IWM-gauge-505,Dindori,22.9478,81.0761,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-514,Patan,23.3111,79.6619,Madhya Pradesh,Narmada,Narmada/Hiran
+IWM-gauge-516,Kumhari,21.8842,80.175,Madhya Pradesh,Godavari,Godavari/Pranhita/ Wainganga
+IWM-gauge-517,Mandleshwar,22.1683,75.6608,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-526,Barmanghat,23.0308,79.0156,Madhya Pradesh,Narmada,Narmada
+IWM-gauge-537,Kogaon,22.1014,75.6842,Madhya Pradesh,Narmada,Narmada/Kundi
+IWM-gauge-538,Ramakona,21.7189,78.8242,Madhya Pradesh,Godavari,Godavari/Pranhita/ Kanhan
+IWM-gauge-54,Keesara,16.7156,80.3164,Andhra Pradesh,Krishna,Krishna/Munneru
+IWM-gauge-549,Belkhedi,22.9278,79.3397,Madhya Pradesh,Narmada,Narmada/Sher
+IWM-gauge-560,Burhanpur,21.2994,76.235,Madhya Pradesh,Tapi,Tapi
+IWM-gauge-562,Purna at gopalkheda,20.8742,76.9897,Maharashtra,Tapi,Tapi/Purna
+IWM-gauge-563,Hivra,20.5472,78.3247,Maharashtra,Godavari,Godavari/Pranhita/ Wardha
+IWM-gauge-57,Alladupalli,14.7172,78.6686,Andhra Pradesh,Pennar,Pennar/Kunderu
+IWM-gauge-589,Arjunwad (seasonal),16.7808,74.6333,Maharashtra,Krishna,Krishna
+IWM-gauge-592,Sarangkheda,21.4283,74.5272,Maharashtra,Tapi,Tapi
+IWM-gauge-598,Ashti,19.6867,79.7856,Maharashtra,Godavari,Godavari/Pranhita/ Wainganga
+IWM-gauge-60,Wadenepally,16.7942,80.0692,Andhra Pradesh,Krishna,Krishna
+IWM-gauge-609,Bamni (balharsha),19.81,79.38,Maharashtra,Godavari,Wardha
+IWM-gauge-610,Rajoli,20.1936,79.6656,Maharashtra,Godavari,Godavari/Pranhita/ Mul
+IWM-gauge-611,G.r.bridge,19.0217,76.7292,Maharashtra,Godavari,Godavari
+IWM-gauge-612,Takli,17.4131,75.8478,Maharashtra,Krishna,Krishna/Bhima
+IWM-gauge-628,Tekra,18.9783,79.9469,Maharashtra,Godavari,Godavari/Pranhita/ Pranhita
+IWM-gauge-636,Gopalkheda,20.8742,76.9897,Maharashtra,Tapi,Tapi/Purna
+IWM-gauge-640,Dhond,18.4739,74.5764,Maharashtra,Krishna,Krishna/Bhima
+IWM-gauge-642,Narsingpur,17.9722,75.1392,Maharashtra,Krishna,Krishna/Bhima
+IWM-gauge-643,Terwad (seasonal),16.6753,74.5736,Maharashtra,Krishna,Krishna/ Panchganga
+IWM-gauge-654,Warunji,17.2722,74.165,Maharashtra,Krishna,Krishna/Koyna
+IWM-gauge-669,Phulgaon,18.66,74.02,Maharashtra,Krishna,Bhima
+IWM-gauge-673,Salebardi,20.9122,79.9264,Maharashtra,Godavari,Godavari/Pranhita/ Chulband
+IWM-gauge-678,Kurundwad,16.6836,74.6031,Maharashtra,Krishna,Krishna
+IWM-gauge-679,Yelli,19.0439,77.4556,Maharashtra,Godavari,Godavari
+IWM-gauge-68,Polavaram,17.2519,81.6564,Andhra Pradesh,Godavari,Godavari
+IWM-gauge-681,Samdoli (seasonal),16.855,74.4967,Maharashtra,Krishna,Krishna/Varna
+IWM-gauge-682,Sarati,17.9114,75.0075,Maharashtra,Krishna,Krishna/Bhima/ Nira
+IWM-gauge-684,Karad,17.2944,74.1903,Maharashtra,Krishna,Krishna
+IWM-gauge-686,Ghugus,19.9472,79.0892,Maharashtra,Godavari,Godavari/Pranhita/ Wardha
+IWM-gauge-699,Kantamal,20.65,83.7222,Odisha,Mahanadi,Mahanadi/Tel
